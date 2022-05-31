@@ -93,6 +93,7 @@
 
                     <div class="text-center">
                         <h3 class="text-uppercase fw-bold text-dark">{{ $data[0]->title }}</h3>
+                        <h5>{{ $data[0]->category->category }}</h5>
                         <img src="/storage/{{ $data[0]->image }}" alt="" class="img-fluid my-3" width="500px">
                     </div>
                        
