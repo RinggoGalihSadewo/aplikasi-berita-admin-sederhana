@@ -1,1 +1,1 @@
-Aplikasi pengelola berita sederhana menggunakan Codeigniter 4, cocok buat teman - teman yang ingin belajar Codeigniter.
+Aplikasi pengelola berita sederhana menggunakan Laravel, cocok buat teman - teman yang ingin belajar Framework Laravel.
